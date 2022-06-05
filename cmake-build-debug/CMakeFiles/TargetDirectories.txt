@@ -1,0 +1,3 @@
+G:/project/C/Nurse/cmake-build-debug/CMakeFiles/Nurse.dir
+G:/project/C/Nurse/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/project/C/Nurse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
